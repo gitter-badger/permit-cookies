@@ -17,3 +17,5 @@ Permit cookies supports multiple icon sets called skins.  The process is still p
 - edit `src/chrome/locale/<all local names>/prefs.dtd` and add a line for your skin.  If you know the translation of your skin name in a given language that would be great but if not can just use the English name
 
 After all that you can build and test that you can select the skin in preferences.  Information on how to build and test are TBD.
+
+Join the chat at https://gitter.im/vrillusions/permit-cookies
